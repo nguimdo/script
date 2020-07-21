@@ -1,4 +1,5 @@
 #!/bin/bash
+date: july 2020
 
 if [ $UID -ne 0 ]   
 
