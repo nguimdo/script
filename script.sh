@@ -1,6 +1,6 @@
 #!/bin/bash
 #description: script to display system info
-
+#author: Francine
 
 
 
