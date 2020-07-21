@@ -1,5 +1,6 @@
 #!/bin/bash
 #date: july 2020
+#author: francine
 
 if [ $UID -ne 0 ]   
 
