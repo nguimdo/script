@@ -1,6 +1,7 @@
 #!/bin/bash
 #date: july 2020
 #author: francine
+cat /proc/cpuinfo
 
 if [ $UID -ne 0 ]   
 
